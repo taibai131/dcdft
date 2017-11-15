@@ -6,3 +6,5 @@ The unevenness in the spacing between consecutive dates and the small size of th
 The technique called DateCompensated Discrete Fourier Transform (DCDFT), corresponds to a curve-fitting approach using a sinusoid-plus-constant model, and is summarized below. For each trial frequency w, one coefficient of spectral correlation S is obtained by the following formulae:
 
 ![equation](http://www.sciweavers.org/download/Tex2Img_1510748170.jpg)
+![equation](http://www.sciweavers.org/download/Tex2Img_1510748363.jpg)
+![equation](http://www.sciweavers.org/download/Tex2Img_1510748438.jpg)
