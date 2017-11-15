@@ -7,6 +7,8 @@ The technique called DateCompensated Discrete Fourier Transform (DCDFT), corresp
 
 ![equation](http://www.sciweavers.org/download/Tex2Img_1510748170.jpg)
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1510748363.jpg)
+![equation](http://www.sciweavers.org/download/Tex2Img_1510748665.jpg)
 
-![equation](http://www.sciweavers.org/download/Tex2Img_1510748438.jpg)
+![equation](http://www.sciweavers.org/download/Tex2Img_1510748730.jpg)
+
+![equation](http://www.sciweavers.org/download/Tex2Img_1510748618.jpg)
